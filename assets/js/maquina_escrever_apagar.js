@@ -1,7 +1,7 @@
 // nessa linha chamamos o id que foi definido na tag <strong> no doc html
 const textDisplay = document.getElementById('abc')
 // nessa linha são definidas as tres frases que serão animadas
-const phrases = ['Desenvolvedor WEB', 'WEB Designer', 'Programador FrontEnd']
+const phrases = ['Desenvolvedor WEB', 'Desenvolvedor Mobile', 'Programador FrontEnd']
 let i = 0
 let j = 0 
 let currentPhrase = []
@@ -50,22 +50,3 @@ function loop () {
 loop()
 
 
-
-
-////////o css dele ///////////////
-
-// h3::after{
-//     content: '|';
-//     margin-left: 5px;
-//     opacity: 1;
-//     animation: pisca .7s infinite;
-// }
-
-// @keyframes pisca {
-//     0%,100% {
-//         opacity: 1;
-//     }
-//     50%{
-//         opacity: 0;
-//     }    
-// }
