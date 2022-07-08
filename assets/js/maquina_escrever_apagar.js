@@ -1,7 +1,7 @@
 // nessa linha chamamos o id que foi definido na tag <strong> no doc html
 const textDisplay = document.getElementById('abc')
 // nessa linha são definidas as tres frases que serão animadas
-const phrases = ['Desenvolvedor WEB', 'Desenvolvedor Mobile', 'Programador FrontEnd']
+const phrases = ['Programador WEB', 'Programador Mobile']
 let i = 0
 let j = 0 
 let currentPhrase = []
