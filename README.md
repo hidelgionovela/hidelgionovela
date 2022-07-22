@@ -7,6 +7,8 @@
 
 - Pode me contactar pelo email **hidelgionovela@outlook.com**
 
+- Pode me contactar pelo email [http://ujc.ac.mz/](https://hidelgionovela.github.io)
+
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
