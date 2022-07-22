@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é Hidélgio 9la </h1>
+<h1 align="center">Olá 👋😜👍, Meu nome é Hidélgio 9la </h1>
 <h3 align="center"> Programação</> é Minha Paixão </h3>
 
 - Actualmente estou aprendendo **PHP, JavaScript e trabalhar com frameworks como Laravel, Quasar e Vue.js...**
