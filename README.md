@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8fdfef&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=30&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+Nome+é+Hidélgio+Novela;Sou+Estudante+de+Engenharia+de+Software😜!;Gosto+de+Programação+❤;E+Seja+Bem-Vindo👍!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d8dff&size=30&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+Nome+é+Hidélgio+Novela;Sou+Estudante+de+Engenharia+de+Software😜!;Gosto+de+Programação+❤;E+Seja+Bem-Vindo👍!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center"></h1>
 <h3 align="center"></h3>
@@ -48,4 +48,4 @@ These are some of the technologies and tools that I work with:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8fdfef&height=120&section=footer&text=Programação+Aprende-se+Programando!&fontSize=20&fontColor=0000ff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=120&section=footer&text=Programação+Aprende-se+Programando!&fontSize=20&fontColor=5d8dff&animation=twinkling&fontAlignY=30"/>
