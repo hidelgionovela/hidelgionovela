@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d8dff&size=30&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+Nome+é+Hidélgio+Novela;Estudante+de+Engenharia+de+Software😜!;E+Seja+Bem-Vindo👍!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d8dff&size=30&center=true&vCenter=true&width=1000&lines=Hi+there👋,+My+Name+is+Hidélgio+Novela;Software+Engineering+Student😜!;welcome👍!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 
-- Actualmente estou aprendendo **PHP, JavaScript e trabalhar com frameworks como Laravel, Quasar e Vue.js...**
+- 🌱 I’m currently learning ... **PHP, JavaScript and 🔭 I’m currently working on frameworks like Laravel, Quasar e Vue.js...**
 
-- Estudante na Universidade Joaquim Chissano  [http://ujc.ac.mz/](http://ujc.ac.mz/)
+- Student at Universidade Joaquim Chissano  [http://ujc.ac.mz/](http://ujc.ac.mz/)
 
-- Pode me contactar pelo email **hidelgionovela@outlook.com**
+- My email **hidelgionovela@outlook.com**
 
 - [Meu Portfólio](https://hidelgionovela.github.io)
 
