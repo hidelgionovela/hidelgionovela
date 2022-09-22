@@ -9,7 +9,7 @@
 
 - Student at Universidade Joaquim Chissano  [http://ujc.ac.mz/](http://ujc.ac.mz/)
 
-- My email **hidelgionovela@outlook.com**
+- My email **hidelgionovela@gmail.com**
 
 - [Meu Portfólio](https://hidelgionovela.github.io)
 
