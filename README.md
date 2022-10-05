@@ -48,4 +48,4 @@ These are some of the technologies and tools that I work with:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=120&section=footer&text=Programação+Aprende-se+Programando!&fontSize=20&fontColor=5d8dff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=120&section=footer&text=9la!&fontSize=20&fontColor=5d8dff&animation=twinkling&fontAlignY=30"/>
