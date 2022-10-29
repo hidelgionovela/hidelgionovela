@@ -11,7 +11,7 @@
 
 - My email **hidelgionovela@gmail.com**
 
-- [Meu Portfólio](https://hidelgionovela.github.io)
+- [Meu Portfólio](https://hidelgionovela)
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
@@ -49,4 +49,4 @@ These are some of the technologies and tools that I work with:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=120&section=footer&text=.&fontSize=20&fontColor=5d8dff&animation=twinkling&fontAlignY=30"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8dff&height=120&section=footer&text=.&fontSize=20&fontColor=5d8dff&animation=twinkling&fontAlignY=30"/> -->
