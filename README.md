@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ... ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-squar&logo=spring&logoColor=white) 
 - 🔭 I’m currently working with PL/SQL language and Oracle Apex...
-- My email **hidelgionovela@gmail.com**
+
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
