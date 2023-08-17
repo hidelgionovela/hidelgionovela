@@ -6,7 +6,7 @@
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning ... ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-squar&logo=spring&logoColor=white) 
-- 🔭 I’m currently working with PL/SQL language and Oracle Apex...
+- 🔭 I’m currently working with PL/SQL language and Oracle Application Express...
 
 
 <!--<h3 align="left">Connect with me:</h3>-->
@@ -24,7 +24,6 @@ These are some of the technologies and tools that I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-squar&logo=laravel&logoColor=white)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
@@ -39,9 +38,10 @@ These are some of the technologies and tools that I work with:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-squar&logo=firebase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-squar&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-squar&logo=netlify&logoColor=#00C7B7)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-squar&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-squar&logo=postman&logoColor=white)
+
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-squar&logo=intellij-idea&logoColor=white)
