@@ -5,8 +5,8 @@
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning ... ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-squar&logo=spring&logoColor=white) 
-- 🔭 I’m currently working with PL/SQL language and Oracle Application Express...
+- 🌱 I’m currently learning ... ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-squar&logo=laravel&logoColor=white)
+- 🔭 I’m currently working with ... ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
 
 
 <!--<h3 align="left">Connect with me:</h3>-->
